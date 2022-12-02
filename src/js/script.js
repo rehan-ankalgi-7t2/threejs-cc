@@ -18,7 +18,7 @@ document.body.appendChild(renderer.domElement);
 renderer.shadowMap.enabled = true;
 // renderer.setClearColor(0x87CEEB);
 
-// creting new scene
+// creating new scene
 const scene = new THREE.Scene();
 
 const textureLoader = new THREE.TextureLoader();
