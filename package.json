@@ -1,0 +1,17 @@
+{
+  "name": "threejs-projects",
+  "version": "1.0.0",
+  "description": "three js excercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rehan Ankalgi",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.147.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  }
+}
